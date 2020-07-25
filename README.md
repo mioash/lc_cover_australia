@@ -19,5 +19,5 @@ use and modify the code, without warranty, so long as you provide attribution
 to the authors.
 
 The manuscript text is not open source. The authors reserve the rights to the
-article content, which is currently submitted for publication in the
+article content, which is currently submitted for publication in
 Remote Sensing of Environment.
