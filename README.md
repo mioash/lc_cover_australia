@@ -10,7 +10,8 @@ Authors: Marco Calderón-Loor 1,2 -..-, Michalis Hadjikakou 1, Brett A Bryan 1
 
 > -..- Email: mcalderonloor@deakin.edu.au, mioash@gmail.com
 
-
+An example on how to download the information can be found at:
+https://code.earthengine.google.com/6731fff843dd57b70db23374574ed8a2
 
 ## License
 
